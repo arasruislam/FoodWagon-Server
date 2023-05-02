@@ -1,0 +1,424 @@
+[
+  {
+    "id": "A1B2C3D4E5F6G7H8",
+    "chefName": "Julia Child",
+    "chefPhotoUrl": "https://i.ibb.co/W3XXnB6/team-1.png",
+    "likes": 5000,
+    "numRecipes": 30,
+    "yearsExperience": 15,
+    "chefDescription": "John Smith is a renowned chef with years of experience in the culinary industry. He is known for his creative and innovative approach to cooking, and has won numerous awards for his dishes.",
+    "recipes": [
+      {
+        "name": "Grilled Salmon",
+        "ingredients": [
+          "salmon fillet",
+          "olive oil",
+          "lemon",
+          "garlic",
+          "salt"
+        ],
+        "cookingMethod": "1. Preheat grill to high heat. 2. Rub salmon with olive oil, lemon juice, and minced garlic. 3. Season with salt. 4. Grill skin side down for 4-5 minutes. 5. Flip and grill for an additional 2-3 minutes. Serve hot.",
+        "rating": 4.8,
+        "recipeImages": "https://i.ibb.co/FnW9XhV/Grilled-Salmon-1.jpg"
+      },
+      {
+        "name": "Chicken Alfredo",
+        "ingredients": [
+          "fettuccine pasta",
+          "chicken breast",
+          "heavy cream",
+          "parmesan cheese",
+          "garlic"
+        ],
+        "cookingMethod": "1. Cook pasta according to package directions. 2. Season chicken with salt and pepper. 3. In a large skillet, cook chicken over medium heat until browned and cooked through. 4. Remove chicken from skillet and set aside. 5. Add garlic to skillet and cook for 1-2 minutes. 6. Add heavy cream and parmesan cheese. 7. Stir until sauce thickens. 8. Add cooked pasta and chicken to skillet and toss to combine. Serve hot.",
+        "rating": 4.5,
+        "recipeImages": "https://i.ibb.co/ZNzs8Kd/Grilled-Salmon-2.jpg"
+      },
+      {
+        "name": "Beef Stir-Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "carrots",
+          "onion",
+          "soy sauce"
+        ],
+        "cookingMethod": "1. Cut beef into thin strips. 2. In a large skillet, heat oil over high heat. 3. Add beef and cook until browned. 4. Remove beef from skillet and set aside. 5. Add vegetables to skillet and stir-fry until tender-crisp. 6. Return beef to skillet. 7. Add soy sauce and stir until heated through. Serve hot with rice.",
+        "rating": 4.3,
+        "recipeImages": "https://i.ibb.co/FVyKCfs/Grilled-Salmon-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "P9Q8R7S6T5U4V3W2",
+    "chefName": "Gordon Ramsay",
+    "chefPhotoUrl": "https://i.ibb.co/N94dnS5/team-2.png",
+    "likes": 1000,
+    "numRecipes": 15,
+    "yearsExperience": 8,
+    "chefDescription": "Sara Lee is a master baker who has been honing her craft for over two decades. She specializes in creating delicious and unique desserts that are as beautiful as they are tasty.",
+    "recipes": [
+      {
+        "name": "Chocolate Cake",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "cocoa powder",
+          "baking powder",
+          "eggs",
+          "milk"
+        ],
+        "cookingMethod": "1. Preheat oven to 350°F. 2. In a large bowl, combine flour, sugar, cocoa powder, and baking powder. 3. In a separate bowl, beat eggs and milk together. 4. Add wet ingredients to dry ingredients and mix until combined. 5. Pour batter into greased cake pan. 6. Bake for 30-35 minutes. 7. Let cool and frost as desired.",
+        "rating": 4.9,
+        "recipeImages": "https://i.ibb.co/G9TSH5H/Chocolate-Cake-3.jpg"
+      },
+      {
+        "name": "Strawberry Cheesecake",
+        "ingredients": [
+          "graham cracker crumbs",
+          "cream cheese",
+          "sugar",
+          "eggs",
+          "strawberries"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. In a large bowl, mix graham cracker crumbs and melted butter. 3. Press mixture into bottom of springform pan. 4. In a separate bowl, beat cream cheese and sugar together. 5. Add eggs one at a time, beating well after each addition. 6. Pour mixture into pan. 7. Bake for 45-50 minutes. 8. Let cool and top with fresh strawberries.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/3C5b3m9/Chocolate-Cake-2.jpg"
+      },
+      {
+        "name": "Blueberry Muffins",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "baking powder",
+          "salt",
+          "egg",
+          "milk",
+          "butter",
+          "blueberries"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. In a large bowl, mix flour, sugar, baking powder, and salt. 3. In a separate bowl, beat egg, milk, and melted butter together. 4. Add wet ingredients to dry ingredients and mix until combined. 5. Fold in blueberries. 6. Pour batter into greased muffin cups. 7. Bake for 18-20 minutes. Let cool and serve.",
+        "rating": 4.6,
+        "recipeImages": "https://i.ibb.co/tMwqj0D/Chocolate-Cake-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "X1Y2Z3A4B5C6D7E8",
+    "chefName": "Ina Garten",
+    "chefPhotoUrl": "https://i.ibb.co/gTv4Bw7/team-3.png",
+    "likes": 7000,
+    "numRecipes": 20,
+    "yearsExperience": 25,
+    "chefDescription": "Hassan Ali is a Pakistani chef who has worked in some of the finest restaurants around the world. He has a passion for fusion cuisine, combining the flavors of his homeland with those of other cultures.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Biryani",
+        "ingredients": [
+          "rice",
+          "chicken",
+          "yogurt",
+          "spices",
+          "onions",
+          "tomatoes"
+        ],
+        "cookingMethod": "1. In a large pot, heat oil and fry onions until golden brown. 2. Add chicken and cook until browned. 3. Add spices and cook for 1-2 minutes. 4. Add rice and stir to combine. 5. Add water and bring to a boil. 6. Reduce heat and cover pot. 7. Cook until rice is tender and chicken is cooked through. 8. Serve hot with raita and naan bread.",
+        "rating": 4.8,
+        "recipeImages": "https://i.ibb.co/7bdbcv7/Biryani-1.jpg"
+      },
+      {
+        "name": "Thai Basil Chicken",
+        "ingredients": [
+          "chicken",
+          "basil leaves",
+          "chili peppers",
+          "garlic",
+          "fish sauce",
+          "soy sauce"
+        ],
+        "cookingMethod": "1. Heat oil in a wok or large skillet. 2. Add garlic and chili peppers and stir-fry for 30 seconds. 3. Add chicken and stir-fry until browned. 4. Add fish sauce, soy sauce, and basil leaves and stir-fry for 1-2 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/7pGS5g2/Biryani-2.jpg"
+      },
+      {
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "arborio rice",
+          "chicken broth",
+          "mushrooms",
+          "butter",
+          "onion",
+          "parmesan cheese"
+        ],
+        "cookingMethod": "1. In a large pot, heat chicken broth and keep warm. 2. In a separate pot, sauté onions in butter until translucent. 3. Add arborio rice and stir to coat with butter. 4. Add mushrooms and stir to combine. 5. Add warm chicken broth one ladle at a time, stirring constantly. 6. Cook until rice is tender and creamy. 7. Add parmesan cheese and stir to combine. 8. Serve hot.",
+        "rating": 4.5,
+        "recipeImages": "https://i.ibb.co/dGG82qv/Biryani-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "F5G6H7I8J9K0L1M2",
+    "chefName": "Anthony Bourdain",
+    "chefPhotoUrl": "https://i.ibb.co/61cbNdW/team-4.png",
+    "likes": 9000,
+    "numRecipes": 10,
+    "yearsExperience": 20,
+    "chefDescription": "Maria Rodriguez is a Mexican chef who has a passion for creating traditional Mexican dishes with a modern twist. She has worked in some of the top restaurants in Mexico City and has won numerous awards for her innovative cuisine.",
+    "recipes": [
+      {
+        "name": "Carne Asada Tacos",
+        "ingredients": [
+          "beef",
+          "corn tortillas",
+          "lime",
+          "cilantro",
+          "avocado",
+          "onion"
+        ],
+        "cookingMethod": "1. Season beef with salt, pepper, and garlic powder. 2. Grill or broil beef until medium rare. 3. Let beef rest for 5 minutes, then slice thinly. 4. Warm corn tortillas in a dry skillet or on a griddle. 5. Top each tortilla with beef, cilantro, onion, and avocado. 6. Squeeze lime over the top. 7. Serve hot.",
+        "rating": 4.9,
+        "recipeImages": "https://i.ibb.co/QPtntPX/Tacos-1.jpg"
+      },
+      {
+        "name": "Chiles Rellenos",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic",
+          "eggs"
+        ],
+        "cookingMethod": "1. Roast peppers on a grill or under a broiler until skin is blackened. 2. Put peppers in a plastic bag and let them steam for 10-15 minutes. 3. Remove skin from peppers and make a small slit down the side to remove seeds. 4. Stuff peppers with cooked ground beef. 5. Blend tomatoes, onion, and garlic in a blender until smooth. 6. Pour tomato sauce over stuffed peppers. 7. Beat eggs until frothy and pour over the top. 8. Bake in a preheated oven until eggs are set. 9. Serve hot.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/HY28HjP/Tacos-2.jpg"
+      },
+      {
+        "name": "Mole Chicken",
+        "ingredients": [
+          "chicken thighs",
+          "mole sauce",
+          "cilantro",
+          "rice",
+          "black beans",
+          "avocado"
+        ],
+        "cookingMethod": "1. Season chicken thighs with salt and pepper. 2. Grill or broil chicken until cooked through. 3. Heat mole sauce in a saucepan. 4. Serve chicken on a bed of rice and black beans. 5. Pour mole sauce over the top. 6. Garnish with cilantro and sliced avocado. 7. Serve hot.",
+        "rating": 4.5,
+        "recipeImages": "https://i.ibb.co/1bncZC1/Tacos-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "N3O4P5Q6R7S8T9U0",
+    "chefName": "Mario Batali",
+    "chefPhotoUrl": "https://i.ibb.co/QcsWH9x/team-5.png",
+    "likes": 4000,
+    "numRecipes": 25,
+    "yearsExperience": 7,
+    "chefDescription": "Anna Lee is a Korean-American chef who has a passion for fusing Korean and American cuisine. She has worked in some of the top restaurants in New York City and has been featured in several cooking shows and magazines.",
+    "recipes": [
+      {
+        "name": "Korean Fried Chicken",
+        "ingredients": [
+          "chicken wings",
+          "cornstarch",
+          "flour",
+          "garlic",
+          "ginger",
+          "soy sauce"
+        ],
+        "cookingMethod": "1. Mix cornstarch, flour, salt, and pepper in a bowl. 2. Coat chicken wings with the mixture. 3. Deep fry the chicken wings until golden brown. 4. Make a sauce by heating garlic, ginger, soy sauce, and sugar in a pan. 5. Coat the chicken wings in the sauce. 6. Serve hot.",
+        "rating": 4.8,
+        "recipeImages": "https://i.ibb.co/8sjVjhm/Fried-Chicken-1.jpg"
+      },
+      {
+        "name": "Bibimbap",
+        "ingredients": [
+          "rice",
+          "ground beef",
+          "spinach",
+          "carrot",
+          "zucchini",
+          "egg"
+        ],
+        "cookingMethod": "1. Cook rice according to package instructions. 2. Sauté ground beef with garlic, soy sauce, and sugar. 3. Blanch spinach and season with soy sauce and sesame oil. 4. Julienne carrot and zucchini and sauté with garlic and soy sauce. 5. Fry an egg sunny-side up. 6. Arrange rice, beef, spinach, carrot, and zucchini in a bowl. 7. Top with the egg. 8. Serve with gochujang sauce. ",
+        "rating": 4.6,
+        "recipeImages": "https://i.ibb.co/p3bnBXC/Fried-Chicken-2.jpg"
+      },
+      {
+        "name": "Kimchi Grilled Cheese",
+        "ingredients": [
+          "sourdough bread",
+          "cheddar cheese",
+          "kimchi",
+          "butter",
+          "mayonnaise",
+          "scallions"
+        ],
+        "cookingMethod": "1. Butter one side of each slice of bread. 2. Spread mayonnaise on the other side of the bread. 3. Layer cheddar cheese, kimchi, and scallions on one slice of bread. 4. Top with the other slice of bread. 5. Grill the sandwich in a pan until the cheese is melted and the bread is golden brown. 6. Serve hot.",
+        "rating": 4.2,
+        "recipeImages": "https://i.ibb.co/BNhM9LK/Fried-Chicken-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "V1W2X3Y4Z5A6B7C8",
+    "chefName": "Jamie Oliver",
+    "chefPhotoUrl": "https://i.ibb.co/K9gvsRp/team-6.png",
+    "likes": 8000,
+    "numRecipes": 18,
+    "yearsExperience": 13,
+    "chefDescription": "Carlos Rodriguez is a Mexican chef who has traveled the world to learn and perfect his craft. He combines traditional Mexican flavors with modern techniques to create unique and delicious dishes. He has won several culinary awards and has been featured in food magazines and television shows.",
+    "recipes": [
+      {
+        "name": "Tacos al Pastor",
+        "ingredients": [
+          "pork shoulder",
+          "achiote paste",
+          "pineapple",
+          "corn tortillas",
+          "cilantro",
+          "onion"
+        ],
+        "cookingMethod": "1. Marinate pork shoulder with achiote paste, garlic, oregano, and vinegar. 2. Grill the pork until cooked through. 3. Chop the pork into small pieces. 4. Grill pineapple slices. 5. Warm corn tortillas. 6. Assemble tacos with pork, pineapple, cilantro, and onion. 7. Serve hot.",
+        "rating": 4.9,
+        "recipeImages": "https://i.ibb.co/NFfSKrF/Tacos-al-Pastor-1.jpg"
+      },
+      {
+        "name": "Mole Poblano",
+        "ingredients": [
+          "chicken",
+          "dried ancho chiles",
+          "dried pasilla chiles",
+          "dried mulato chiles",
+          "tomatoes",
+          "almonds"
+        ],
+        "cookingMethod": "1. Toast dried chiles in a dry pan until fragrant. 2. Soak the chiles in hot water until soft. 3. Blend the chiles with garlic, onion, tomatoes, almonds, and spices. 4. Brown chicken pieces in a pot. 5. Pour the blended chile mixture over the chicken. 6. Simmer for 30 minutes. 7. Serve hot with rice and tortillas.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/TMG3Jgb/Tacos-al-Pastor-2.jpg"
+      },
+      {
+        "name": "Churros",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "salt",
+          "water",
+          "egg",
+          "cinnamon"
+        ],
+        "cookingMethod": "1. Boil water, sugar, and salt in a pot. 2. Add flour and stir until a ball forms. 3. Remove from heat and let cool slightly. 4. Add egg and mix until smooth. 5. Heat oil in a deep pot. 6. Pipe the churro dough into the hot oil. 7. Fry until golden brown. 8. Mix cinnamon and sugar in a bowl. 9. Roll the churros in the cinnamon sugar. 10. Serve hot with chocolate dipping sauce.",
+        "rating": 4.5,
+        "recipeImages": "https://i.ibb.co/LPjfJsJ/Tacos-al-Pastor-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "D9E8F7G6H5I4J3K2",
+    "chefName": "Nigella Lawson",
+    "chefPhotoUrl": "https://i.ibb.co/JFM6kZ7/team-7.png",
+    "likes": 6000,
+    "numRecipes": 22,
+    "yearsExperience": 17,
+    "chefDescription": "Hannah Nguyen is a Vietnamese-American chef who specializes in creating fusion dishes that blend the flavors and techniques of her Vietnamese heritage with those of other cuisines. She draws inspiration from her travels and her experiences growing up in a Vietnamese-American household. She has written a cookbook and teaches cooking classes in her spare time.",
+    "recipes": [
+      {
+        "name": "Vietnamese Bánh Mì Sandwich",
+        "ingredients": [
+          "baguette",
+          "pork belly",
+          "mayonnaise",
+          "pickled daikon and carrots",
+          "cucumber",
+          "cilantro"
+        ],
+        "cookingMethod": "1. Marinate pork belly with fish sauce, sugar, and garlic. 2. Grill the pork until crispy. 3. Slice the baguette in half. 4. Spread mayonnaise on one side of the bread. 5. Add pickled daikon and carrots, cucumber slices, and cilantro. 6. Add the grilled pork belly. 7. Serve hot.",
+        "rating": 4.8,
+        "recipeImages": "https://i.ibb.co/6R5q4yJ/Sandwich-1.jpg"
+      },
+      {
+        "name": "Korean BBQ Beef Tacos",
+        "ingredients": [
+          "beef short ribs",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "sesame oil",
+          "tortillas"
+        ],
+        "cookingMethod": "1. Marinate beef short ribs with soy sauce, brown sugar, garlic, and sesame oil. 2. Grill the beef until cooked through. 3. Warm tortillas. 4. Assemble tacos with beef, sliced scallions, and sesame seeds. 5. Serve hot.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/FVGSZHW/Sandwich-2.jpg"
+      },
+      {
+        "name": "Vietnamese Shrimp and Pork Egg Rolls",
+        "ingredients": [
+          "shrimp",
+          "ground pork",
+          "rice paper",
+          "vermicelli noodles",
+          "carrots",
+          "lettuce"
+        ],
+        "cookingMethod": "1. Soak vermicelli noodles in hot water until soft. 2. Cook shrimp and ground pork in a pan. 3. Add shredded carrots and vermicelli noodles to the pan. 4. Soak rice paper in water until soft. 5. Place filling on the rice paper. 6. Roll the rice paper tightly around the filling. 7. Fry the egg rolls until golden brown. 8. Serve hot with lettuce leaves and dipping sauce.",
+        "rating": 4.6,
+        "recipeImages": "https://i.ibb.co/7khMCWC/Sandwich-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L1M2N3O4P5Q6R7S8",
+    "chefName": "Emeril Lagasse",
+    "chefPhotoUrl": "https://i.ibb.co/8dNBbYJ/team-8.png",
+    "likes": 3000,
+    "numRecipes": 17,
+    "yearsExperience": 22,
+    "chefDescription": "Juan Rodriguez is a Mexican chef who has been cooking for over 15 years. He grew up in a family of chefs and learned to cook at a young age. His passion for Mexican cuisine has led him to create unique and flavorful dishes that are both traditional and modern. He owns a popular restaurant in Mexico City and is known for his use of fresh, local ingredients.",
+    "recipes": [
+      {
+        "name": "Sweets al Pastor",
+        "ingredients": [
+          "pork shoulder",
+          "pineapple",
+          "achiote paste",
+          "guajillo chiles",
+          "onion",
+          "cilantro"
+        ],
+        "cookingMethod": "1. Marinate pork shoulder with achiote paste, guajillo chiles, and garlic. 2. Grill the pork until crispy. 3. Slice the pineapple and grill until caramelized. 4. Warm tortillas. 5. Assemble tacos with pork, grilled pineapple, diced onion, and cilantro. 6. Serve hot.",
+        "rating": 4.9,
+        "recipeImages": "https://i.ibb.co/rxZPpV5/Sweets-3.jpg"
+      },
+      {
+        "name": "Mexican Chicken Tortilla Soup",
+        "ingredients": [
+          "chicken breasts",
+          "corn tortillas",
+          "tomatoes",
+          "onion",
+          "garlic",
+          "jalapeno"
+        ],
+        "cookingMethod": "1. Roast tomatoes, onion, garlic, and jalapeno. 2. Blend roasted vegetables until smooth. 3. Fry corn tortillas until crispy. 4. Shred cooked chicken breasts. 5. In a pot, combine blended vegetables, chicken broth, and shredded chicken. 6. Simmer for 15-20 minutes. 7. Serve hot with crispy tortillas, avocado, and lime wedges.",
+        "rating": 4.7,
+        "recipeImages": "https://i.ibb.co/TYjBKV0/Sweets-2.jpg"
+      },
+      {
+        "name": "Churros with Chocolate Sauce",
+        "ingredients": [
+          "flour",
+          "butter",
+          "sugar",
+          "eggs",
+          "cinnamon",
+          "dark chocolate"
+        ],
+        "cookingMethod": "1. Heat water, butter, and sugar in a pot. 2. Add flour and cinnamon to the pot and mix until combined. 3. Add eggs to the mixture and stir until smooth. 4. Put the mixture into a piping bag and pipe churros onto a baking sheet. 5. Bake until golden brown. 6. Melt dark chocolate in a double boiler. 7. Dip churros into the chocolate sauce. 8. Serve hot.",
+        "rating": 4.8,
+        "recipeImages": "https://i.ibb.co/tZbf5Lg/Sweets-1.jpg"
+      }
+    ]
+  }
+]
