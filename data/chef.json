@@ -1,0 +1,66 @@
+[
+   {
+      "id":1,
+      "name":"Julia Child",
+      "photoUrl":"https://example.com/julia-child.jpg",
+      "likes":500,
+      "numRecipes":300,
+      "yearsExperience":15
+   },
+   {
+      "id":2,
+      "name":"Gordon Ramsay",
+      "photoUrl":"https://example.com/gordon-ramsay.jpg",
+      "likes":1000,
+      "numRecipes":150,
+      "yearsExperience":8
+   },
+   {
+      "id":3,
+      "name":"Ina Garten",
+      "photoUrl":"https://example.com/ina-garten.jpg",
+      "likes":700,
+      "numRecipes":200,
+      "yearsExperience":25
+   },
+   {
+      "id":4,
+      "name":"Anthony Bourdain",
+      "photoUrl":"https://example.com/anthony-bourdain.jpg",
+      "likes":900,
+      "numRecipes":100,
+      "yearsExperience":20
+   },
+   {
+      "id":5,
+      "name":"Mario Batali",
+      "photoUrl":"https://example.com/mario-batali.jpg",
+      "likes":400,
+      "numRecipes":250,
+      "yearsExperience":7
+   },
+   {
+      "id":6,
+      "name":"Jamie Oliver",
+      "photoUrl":"https://example.com/jamie-oliver.jpg",
+      "likes":800,
+      "numRecipes":180,
+      "yearsExperience":13
+   },
+   {
+      "id":7,
+      "name":"Nigella Lawson",
+      "photoUrl":"https://example.com/nigella-lawson.jpg",
+      "likes":600,
+      "numRecipes":220,
+      "yearsExperience":17
+   },
+   {
+      "id":8,
+      "name":"Emeril Lagasse",
+      "photoUrl":"https://example.com/emeril-lagasse.jpg",
+      "likes":300,
+      "numRecipes":170,
+      "yearsExperience":22
+   }
+]
