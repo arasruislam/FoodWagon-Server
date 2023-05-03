@@ -1,7 +1,7 @@
 [
    {
       "id":"1",
-      "chefName":"Julia Child",
+      "chefName":"Gordon Ramsay",
       "chefPhotoUrl":"https://i.ibb.co/W3XXnB6/team-1.png",
       "likes":5000,
       "numRecipes":30,
@@ -9,7 +9,7 @@
    },
    {
       "id":"2",
-      "chefName":"Gordon Ramsay",
+      "chefName":"Anthony Bourdain",
       "chefPhotoUrl":"https://i.ibb.co/N94dnS5/team-2.png",
       "likes":1000,
       "numRecipes":15,
@@ -25,7 +25,7 @@
    },
    {
       "id":"4",
-      "chefName":"Anthony Bourdain",
+      "chefName":"Christina Tosi",
       "chefPhotoUrl":"https://i.ibb.co/61cbNdW/team-4.png",
       "likes":9000,
       "numRecipes":10,
@@ -33,7 +33,7 @@
    },
    {
       "id":"5",
-      "chefName":"Mario Batali",
+      "chefName":"Yotam Ottolenghi",
       "chefPhotoUrl":"https://i.ibb.co/QcsWH9x/team-5.png",
       "likes":4000,
       "numRecipes":25,
@@ -41,7 +41,7 @@
    },
    {
       "id":"6",
-      "chefName":"Jamie Oliver",
+      "chefName":"Alice Waters",
       "chefPhotoUrl":"https://i.ibb.co/K9gvsRp/team-6.png",
       "likes":8000,
       "numRecipes":18,
@@ -49,7 +49,7 @@
    },
    {
       "id":"7",
-      "chefName":"Nigella Lawson",
+      "chefName":"Massimo Bottura",
       "chefPhotoUrl":"https://i.ibb.co/JFM6kZ7/team-7.png",
       "likes":6000,
       "numRecipes":22,
